@@ -26,4 +26,4 @@ Reuslt for dataset4:
 The left plot shows the dataset and the classification boundary given by the weights of the perceptron. The negative examples are shown as circles while the positive examples are shown as squares. If an example is colored green then it means that the example has been correctly classified by the provided weights. If it is colored red then it has been incorrectly classified. The middle plot shows the number of mistakes the perceptron algorithm has made in each iteration so far. The right plot shows the distance to some generously feasible weight vector if one has been provided (note, there can be an infinite number of these). Points that the classifier has made a mistake on are shown in red, while points that are correctly classified are shown in green.
 
 
-##### We can see that data1, data2 and data3 can be linearly separable, while data4 can not.
+##### We can see that data1, data3 can be linearly separable, while data2 and data4 can not.
