@@ -1,8 +1,10 @@
 # Neural network for machine learning
-Realized the projects of coursera course "Neural Networks for Machine Learning", which was taught by Prof. Geoffrey Hinton.
-The code is written by python instead of matlab, which is the default for this course.
+Realize the projects of coursera course "Neural Networks for Machine Learning", which is taught by Prof. Geoffrey Hinton.
 
 Author: Jian Wang and Tang Shao
+
+Contribution: Write python code instead of matlab, which is the default for this course, to get the numerical results and answer questions of each project. 
+
 
 ### Programming Assignment 1: The perceptron learning algorithm
 Use iteration numbers equal to 5 as examples
