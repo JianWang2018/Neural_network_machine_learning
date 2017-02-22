@@ -7,7 +7,7 @@ Contribution: Write python code instead of matlab, which is the default for this
 
 
 ### Programming Assignment 1: The perceptron learning algorithm
-Use iteration numbers equal to 5 as examples
+Use perceptron learning algorithm to classify four two-classes dataset.Set iteration numbers equal to 5 as examples
 
 Reuslt for dataset1:
 
