@@ -1,7 +1,7 @@
 # Neural network for machine learning
 Realize the projects of coursera course "Neural Networks for Machine Learning", which is taught by Prof. Geoffrey Hinton.
 
-Author: Jian Wang and Shao TANG
+Author: Jian Wang and Shao Tang
 
 Contribution: Write python code instead of matlab, which is the default for this course, to get the numerical results and answer questions of each project. 
 
