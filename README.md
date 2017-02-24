@@ -9,6 +9,10 @@ Contribution: Write python code instead of matlab, which is the default for this
 ### Programming Assignment 1: The perceptron learning algorithm
 Use perceptron learning algorithm to classify four two-classes dataset.Set iteration numbers equal to 5 as examples
 
+Perceptron update method:
+
+$$\omega_i^(t+1)=\omega_i^(t)+\alpha(y_j-f(x_j)$$
+
 Reuslt for dataset1:
 
 <img src="prj1/nn_prj1_data1.png" height=80% width=80%>
