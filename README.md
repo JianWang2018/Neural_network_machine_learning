@@ -11,7 +11,7 @@ Use perceptron learning algorithm to classify four two-classes dataset.Set itera
 
 Perceptron update method:
 
-$$\omega_i^(t+1)=\omega_i^(t)+\alpha(y_j-f(x_j)$$
+$$\omega_i^{(t+1)}=\omega_i^{(t)}+\alpha(y_j-f(x_j)$$
 
 Reuslt for dataset1:
 
